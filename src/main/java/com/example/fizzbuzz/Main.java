@@ -1,2 +1,7 @@
-package com.example.fizzbuzz;public class Main {
+package com.example.fizzbuzz;
+
+public class Main {
+    public static void main(String[] args) {
+        FizzBuzz.fizzBuzz(100);
+    }
 }
